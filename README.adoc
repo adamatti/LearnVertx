@@ -4,4 +4,3 @@ It contains samples with Camel, Http (client and server), Kafka, Mongo, PubSub, 
 
 #### Todo
 ** https://vertx.io/docs/vertx-service-discovery/java/[Service Discovery]
-** http client

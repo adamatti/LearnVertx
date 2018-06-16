@@ -1,0 +1,7 @@
+Pet project to play with https://vertx.io[vertx]. +
+Each file/sample is independent. +
+It contains samples with Camel, Http (client and server), Kafka, Mongo, PubSub, Redis... And hope more will come: yes, please send your PR :-)
+
+#### Todo
+** https://vertx.io/docs/vertx-service-discovery/java/[Service Discovery]
+** http client
